@@ -2523,3 +2523,4 @@ Matthew Burgos
 - [Yassine Erradouani](https://github.com/yassnemo)
 - [Julio Florentino](https://github.com/JulioFlorentino)
 - [DevDhomm](https://github.com/DevDhomm)
+- [NasirJalil](http://github.com/gisp-cubicon)
